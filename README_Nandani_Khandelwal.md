@@ -62,7 +62,7 @@ Our data set consists of the following observations which include:
 - **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-ratings drawio](https://github.com/Nandani126/Restaurant-Ratings-Analysis/assets/344537311-90bef193-a0bb-4211-96ca-a7587b16f2d1.png)
+![Restaurant-ratings drawio](https://github.com/Nandani126/Restaurant-Ratings-Analysis/blob/main/assets/344537311-90bef193-a0bb-4211-96ca-a7587b16f2d1.png)
 
 ## Data Cleaning
 ### Steps to import data as a folder
